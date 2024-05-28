@@ -2,6 +2,6 @@ __pycache__/
 *.pyc
 *.pyo
 .ipynb_checkpoints/
-# data/raw/
+data/raw/
 data/processed/
 venv
